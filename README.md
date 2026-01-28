@@ -22,7 +22,7 @@ Hey, Netology
 - Предоставьте ответ в виде ссылки на https://hub.docker.com/<username_repo>/custom-nginx/general .
 
 - ### Решение
--https://hub.docker.com/r/anmokhov26/custom-nginx
+https://hub.docker.com/r/anmokhov26/custom-nginx/tags
 
 ## Задача 2
 1. Запустите ваш образ custom-nginx:1.0.0 командой docker run в соответвии с требованиями:
